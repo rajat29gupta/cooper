@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+.login {
+  height: 100vh;
+  background-color: #E7F2FD;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Open Sans',serif;
+}
+#register-link {
+  margin-top: -30px;
+}

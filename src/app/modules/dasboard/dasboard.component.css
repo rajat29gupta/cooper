@@ -1,0 +1,100 @@
+.mat-drawer-content {
+  height: 100vh;
+}
+.userPic {
+  width: 75px;
+  border-radius: 50%;
+  border: 2px solid #fff !important;
+  height: 75px;
+}
+.userPicture {
+  display: flex;
+  justify-content: center;
+}
+.userArea {
+  width: 200px;
+  background: #5185bb;
+  height: 100vh;
+  color: #fff;
+}
+.cs-border {
+  border: 1px solid blue;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 46px;
+  color: #0069d9;
+}
+.sidenav-content {
+  background: #e7f2fd;
+  /* height: 100vh; */
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.bell {
+  height: 48px;
+  width: 47px;
+  background-color: #e7f2fd;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-right {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 100%;
+}
+.d-grid {
+  display: grid;
+}
+.userlogo {
+  width: 48px;
+  border-radius: 50%;
+  border: 2px solid #fff !important;
+  height: 47px;
+}
+.msg {
+  height: 48px;
+  width: 47px;
+  background-color: #e7f2fd;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.dot {
+  height: 10px;
+  width: 10px;
+  background-color: #27ae60;
+  border-radius: 50%;
+  display: inline-block;
+}
+.dollar {
+  width: 33vh;
+}
+
+.todo-item {
+  height: calc(1.5em + 0.75rem + 2px);
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  color: #495057;
+}
+.footer{
+  height: 70px;
+}
+
+
+
+
+
+
+.completed {
+  text-decoration: line-through;
+  color: grey;
+}
